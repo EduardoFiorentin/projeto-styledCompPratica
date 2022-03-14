@@ -1,0 +1,9 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.stories__cards::-webkit-scrollbar {
+  display: none;
+}
+
+/*# sourceMappingURL=style.css.map */
